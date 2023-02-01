@@ -14,4 +14,10 @@ curl -v -X POST "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/ana
  -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" \
  --data-ascii "{\"url\":\"https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN.pdf\"}"
 
-curl -v -X GET "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyzeResults/38938ccb-3ea6-4840-883b-338720f412e0" -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" --data-ascii "{body}"
+curl -v -X GET "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyzeResults/5664c152-10e4-4c89-a8db-5cc5c82b3c84" -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" --data-ascii "{body}"
+
+
+curl -v -X POST "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyze" \
+ -H "Content-Type: application/json" \
+ -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" \
+ --data-ascii "{\"url\":\"https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/kakai_LOGBOOK.jpeg\"}"
