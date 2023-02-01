@@ -7,9 +7,15 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { ReactiveFormsModule } from '@angular/forms';
 import { FileUploaderComponent } from './file-uploader/file-uploader.component';
 import { FileSizePipe } from './file-size.pipe';
+import { ProgressSpinnerComponent } from './progress-spinner/progress-spinner.component';
 
 @NgModule({
-  declarations: [AppComponent, FileUploaderComponent, FileSizePipe],
+  declarations: [
+    AppComponent,
+    FileUploaderComponent,
+    FileSizePipe,
+    ProgressSpinnerComponent,
+  ],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -23,6 +29,6 @@ import { FileSizePipe } from './file-size.pipe';
   ],
   providers: [],
   bootstrap: [AppComponent],
-  exports: [FileUploaderComponent],
+  exports: [FileUploaderComponent, ProgressSpinnerComponent],
 })
 export class AppModule {}

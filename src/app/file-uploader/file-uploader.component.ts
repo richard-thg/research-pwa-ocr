@@ -6,14 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./file-uploader.component.scss'],
 })
 export class FileUploaderComponent {
-  fileName = '';
   fileDetails: any;
-
+  isLoading: boolean = false;
   constructor() {}
-
   onFileSelected(evt: any) {
     const file: File = evt.target.files[0];
-
     if (file) {
       this.fileDetails = {
         lastModified: file.lastModified,
@@ -22,7 +19,6 @@ export class FileUploaderComponent {
         type: file.type,
         webkitRelativePath: file.webkitRelativePath,
       };
-      this.fileName = file.name;
 
       /*  const formData = new FormData();
 
