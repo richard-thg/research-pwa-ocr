@@ -1,10 +1,17 @@
 https://spiffy-druid-cfbced.netlify.app/
 
-curl -v -X POST "https://westcentralus.api.cognitive.microsoft.com/vision/v3.2/read/analyze" \
- -H "Content-Type: application/json" \
--H "Ocp-Apim-Subscription-Key: <subscription key>" \
- --data-ascii "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Atomist_quote_from_Democritus.png/338px-Atomist_quote_from_Democritus.png\"}"
-
+curl -v -X POST "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyze" \
+-H "Content-Type: application/json" \
+ -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" \
+ --data-ascii "{\"url\":\"https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN-1.png\"}"
 
 Image - https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN-1.png
 PDF - https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN.pdf
+LOGBOOK PNG - https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/kakai_LOGBOOK.jpeg
+
+curl -v -X POST "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyze" \
+ -H "Content-Type: application/json" \
+ -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" \
+ --data-ascii "{\"url\":\"https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN.pdf\"}"
+
+curl -v -X GET "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyzeResults/38938ccb-3ea6-4840-883b-338720f412e0" -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" --data-ascii "{body}"

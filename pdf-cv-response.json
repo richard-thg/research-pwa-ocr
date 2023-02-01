@@ -1,0 +1,1418 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-02-01T12:07:31Z",
+	"lastUpdatedDateTime": "2023-02-01T12:07:32Z",
+	"analyzeResult": {
+		"version": "3.2.0",
+		"modelVersion": "2022-04-30",
+		"readResults": [{
+					"page": 1,
+					"angle": 0,
+					"width": 8.2639,
+					"height": 11.6944,
+					"unit": "inch",
+					"lines": [{
+								"boundingBox": [6.2548, 0.3028, 7.6625, 0.3028, 7.6625, 0.3893, 6.2548, 0.3893],
+								"text": "For General Tax Questions",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.2548, 0.3038, 6.4236, 0.3038, 6.4236, 0.3851, 6.2548, 0.3851],
+									"text": "For",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.4612, 0.3038, 6.8624, 0.3038, 6.8624, 0.3856, 6.4612, 0.3856],
+									"text": "General",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.9025, 0.3038, 7.0907, 0.3038, 7.0907, 0.3851, 6.9025, 0.3851],
+									"text": "Tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.1282, 0.3028, 7.6625, 0.3028, 7.6625, 0.3893, 7.1282, 0.3893],
+									"text": "Questions",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [1.0545, 0.4415, 2.4964, 0.4523, 2.4964, 0.6353, 1.0545, 0.6246],
+								"text": "KENYA REVENUE",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 0.972
+									}
+								},
+								"words": [{
+									"boundingBox": [1.0653, 0.4523, 1.614, 0.4523, 1.6248, 0.6246, 1.0653, 0.6353],
+									"text": "KENYA",
+									"confidence": 0.994
+								}, {
+									"boundingBox": [1.6571, 0.4523, 2.4641, 0.463, 2.4533, 0.6353, 1.6571, 0.6246],
+									"text": "REVENUE",
+									"confidence": 0.996
+								}]
+							}, {
+								"boundingBox": [6.3691, 0.431, 7.6636, 0.431, 7.6636, 0.5149, 6.3691, 0.5149],
+								"text": "Contact KRA Call Centre",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.3691, 0.431, 6.7751, 0.431, 6.7751, 0.5149, 6.3691, 0.5149],
+									"text": "Contact",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.8183, 0.4331, 7.0471, 0.4331, 7.0471, 0.5129, 6.8183, 0.5129],
+									"text": "KRA",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.0851, 0.431, 7.2763, 0.431, 7.2763, 0.5149, 7.0851, 0.5149],
+									"text": "Call",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.3197, 0.431, 7.6636, 0.431, 7.6636, 0.5149, 7.3197, 0.5149],
+									"text": "Centre",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [1.0653, 0.6353, 2.0229, 0.6461, 2.0229, 0.8076, 1.0653, 0.7969],
+								"text": "AUTHORITY",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 0.972
+									}
+								},
+								"words": [{
+									"boundingBox": [1.076, 0.6461, 2.0122, 0.6569, 2.0014, 0.8184, 1.076, 0.7969],
+									"text": "AUTHORITY",
+									"confidence": 0.994
+								}]
+							}, {
+								"boundingBox": [3.3988, 0.5329, 4.7076, 0.5329, 4.7076, 0.6798, 3.3988, 0.6798],
+								"text": "PIN Certificate",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [3.3988, 0.5366, 3.6949, 0.5366, 3.6949, 0.6763, 3.3988, 0.6763],
+									"text": "PIN",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.7708, 0.5329, 4.7076, 0.5329, 4.7076, 0.6798, 3.7708, 0.6798],
+									"text": "Certificate",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [6.4052, 0.5607, 7.6629, 0.5607, 7.6629, 0.6652, 6.4052, 0.6652],
+								"text": "Tel: +254 (020) 4999 999",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.4052, 0.5624, 6.5911, 0.5624, 6.5911, 0.6437, 6.4052, 0.6437],
+									"text": "Tel:",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.6365, 0.5624, 6.8789, 0.5624, 6.8789, 0.6442, 6.6365, 0.6442],
+									"text": "+254",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.9171, 0.5607, 7.1686, 0.5607, 7.1686, 0.6652, 6.9171, 0.6652],
+									"text": "(020)",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.2064, 0.5633, 7.4467, 0.5633, 7.4467, 0.6442, 7.2064, 0.6442],
+									"text": "4999",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.4847, 0.5633, 7.6629, 0.5633, 7.6629, 0.6442, 7.4847, 0.6442],
+									"text": "999",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [6.427, 0.6896, 7.6629, 0.6896, 7.6629, 0.7945, 6.427, 0.7945],
+								"text": "Cell: +254(0711)099 999",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.427, 0.6896, 6.6528, 0.6896, 6.6528, 0.7735, 6.427, 0.7735],
+									"text": "Cell:",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.6982, 0.69, 7.4466, 0.69, 7.4466, 0.7945, 6.6982, 0.7945],
+									"text": "+254(0711)099",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.4846, 0.6926, 7.6629, 0.6926, 7.6629, 0.7735, 7.4846, 0.7735],
+									"text": "999",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [6.1958, 0.8161, 7.6744, 0.8161, 7.6744, 0.9248, 6.1958, 0.9248],
+								"text": "Email: callcentre@kra.go.ke",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.1958, 0.8203, 6.5107, 0.8203, 6.5107, 0.9023, 6.1958, 0.9023],
+									"text": "Email:",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.5555, 0.8161, 7.6744, 0.8161, 7.6744, 0.9248, 6.5555, 0.9248],
+									"text": "callcentre@kra.go.ke",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [1.119, 1.0448, 1.8929, 1.0448, 1.8929, 1.1486, 1.119, 1.1486],
+								"text": "www.kra.go.ke",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [1.119, 1.0448, 1.8929, 1.0448, 1.8929, 1.1486, 1.119, 1.1486],
+									"text": "www.kra.go.ke",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [5.8581, 1.3621, 6.726, 1.3621, 6.726, 1.446, 5.8581, 1.446],
+								"text": "Certificate Date :",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [5.8581, 1.3621, 6.3934, 1.3621, 6.3934, 1.446, 5.8581, 1.446],
+									"text": "Certificate",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.4359, 1.3642, 6.6651, 1.3642, 6.6651, 1.4455, 6.4359, 1.4455],
+									"text": "Date",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.7093, 1.3871, 6.726, 1.3871, 6.726, 1.444, 6.7093, 1.444],
+									"text": ":",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [7.1275, 1.3619, 7.6759, 1.3619, 7.6759, 1.4458, 7.1275, 1.4458],
+								"text": "24/06/2015",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [7.1275, 1.3619, 7.6759, 1.3619, 7.6759, 1.4458, 7.1275, 1.4458],
+									"text": "24/06/2015",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [6.0466, 1.5577, 7.6788, 1.5577, 7.6788, 1.6399, 6.0466, 1.6399],
+								"text": "Personal Identification Number",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.0466, 1.5587, 6.4999, 1.5587, 6.4999, 1.6399, 6.0466, 1.6399],
+									"text": "Personal",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.5455, 1.5577, 7.2226, 1.5577, 7.2226, 1.6399, 6.5455, 1.6399],
+									"text": "Identification",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.2684, 1.5587, 7.6788, 1.5587, 7.6788, 1.6399, 7.2684, 1.6399],
+									"text": "Number",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [6.9841, 1.7529, 7.6774, 1.7529, 7.6774, 1.8346, 6.9841, 1.8346],
+								"text": "A005497149F",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.9841, 1.7529, 7.6774, 1.7529, 7.6774, 1.8346, 6.9841, 1.8346],
+									"text": "A005497149F",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [1.4449, 2.4065, 6.6942, 2.4065, 6.6942, 2.5249, 1.4449, 2.5249],
+								"text": "This is to certify that taxpayer shown herein has been registered with Kenya Revenue Authority",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [1.4449, 2.4078, 1.6748, 2.4078, 1.6748, 2.4992, 1.4449, 2.4992],
+									"text": "This",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.7224, 2.4078, 1.7998, 2.4078, 1.7998, 2.4992, 1.7224, 2.4992],
+									"text": "is",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.8408, 2.4139, 1.9389, 2.4139, 1.9389, 2.4991, 1.8408, 2.4991],
+									"text": "to",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.9831, 2.4065, 2.3101, 2.4065, 2.3101, 2.5241, 1.9831, 2.5241],
+									"text": "certify",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.3479, 2.4078, 2.5521, 2.4078, 2.5521, 2.4992, 2.3479, 2.4992],
+									"text": "that",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.5912, 2.4139, 3.0687, 2.4139, 3.0687, 2.5241, 2.5912, 2.5241],
+									"text": "taxpayer",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.1076, 2.4078, 3.4567, 2.4078, 3.4567, 2.4992, 3.1076, 2.4992],
+									"text": "shown",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.5077, 2.4078, 3.8388, 2.4078, 3.8388, 2.4992, 3.5077, 2.4992],
+									"text": "herein",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.8898, 2.4078, 4.0787, 2.4078, 4.0787, 2.4992, 3.8898, 2.4992],
+									"text": "has",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.1252, 2.4078, 4.3878, 2.4078, 4.3878, 2.4992, 4.1252, 2.4992],
+									"text": "been",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.4403, 2.4078, 4.9793, 2.4078, 4.9793, 2.5249, 4.4403, 2.5249],
+									"text": "registered",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.0229, 2.4078, 5.2353, 2.4078, 5.2353, 2.4982, 5.0229, 2.4982],
+									"text": "with",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.2877, 2.4078, 5.6293, 2.4078, 5.6293, 2.5241, 5.2877, 2.5241],
+									"text": "Kenya",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.6783, 2.4078, 6.1626, 2.4078, 6.1626, 2.4992, 5.6783, 2.4992],
+									"text": "Revenue",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.2041, 2.4078, 6.6942, 2.4078, 6.6942, 2.5241, 6.2041, 2.5241],
+									"text": "Authority",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [3.1461, 2.8217, 5.108, 2.8217, 5.108, 3.0045, 3.1461, 3.0045],
+								"text": "Taxpayer Information",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [3.1461, 2.8234, 3.994, 2.8234, 3.994, 3.0045, 3.1461, 3.0045],
+									"text": "Taxpayer",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.0636, 2.8217, 5.108, 2.8217, 5.108, 2.9656, 4.0636, 2.9656],
+									"text": "Information",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7519, 3.2296, 1.7728, 3.2296, 1.7728, 3.3589, 0.7519, 3.3589],
+								"text": "Taxpayer Name",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7519, 3.2296, 1.3576, 3.2296, 1.3576, 3.3589, 0.7519, 3.3589],
+									"text": "Taxpayer",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.4081, 3.2296, 1.7728, 3.2296, 1.7728, 3.3311, 1.4081, 3.3311],
+									"text": "Name",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [4.2483, 3.2265, 5.7971, 3.2265, 5.7971, 3.3593, 4.2483, 3.3593],
+								"text": "Richard Omoka Siang'ani",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [4.2483, 3.2292, 4.7067, 3.2292, 4.7067, 3.3308, 4.2483, 3.3308],
+									"text": "Richard",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.7586, 3.2265, 5.1972, 3.2265, 5.1972, 3.3314, 4.7586, 3.3314],
+									"text": "Omoka",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.2462, 3.2265, 5.7971, 3.2265, 5.7971, 3.3593, 5.2462, 3.3593],
+									"text": "Siang'ani",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7606, 3.4786, 1.7097, 3.4786, 1.7097, 3.5811, 0.7606, 3.5811],
+								"text": "Email Address",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7606, 3.4786, 1.111, 3.4786, 1.111, 3.5811, 0.7606, 3.5811],
+									"text": "Email",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.1619, 3.4796, 1.7097, 3.4796, 1.7097, 3.5811, 1.1619, 3.5811],
+									"text": "Address",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [4.2468, 3.4742, 5.8808, 3.4742, 5.8808, 3.6093, 4.2468, 3.6093],
+								"text": "richard.omoka@gmail.com",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [4.2468, 3.4742, 5.8808, 3.4742, 5.8808, 3.6093, 4.2468, 3.6093],
+									"text": "richard.omoka@gmail.com",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [3.2282, 3.8082, 5.0432, 3.8082, 5.0432, 3.9912, 3.2282, 3.9912],
+								"text": "Registered Address",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [3.2282, 3.8082, 4.2067, 3.8082, 4.2067, 3.9912, 3.2282, 3.9912],
+									"text": "Registered",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.2763, 3.8096, 5.0432, 3.8096, 5.0432, 3.9517, 4.2763, 3.9517],
+									"text": "Address",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7606, 4.2088, 1.6479, 4.2088, 1.6479, 4.3103, 0.7606, 4.3103],
+								"text": "L.R. Number :",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7606, 4.2088, 1.0035, 4.2088, 1.0035, 4.3085, 0.7606, 4.3085],
+									"text": "L.R.",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.0606, 4.2088, 1.5735, 4.2088, 1.5735, 4.3103, 1.0606, 4.3103],
+									"text": "Number",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.6271, 4.2374, 1.6479, 4.2374, 1.6479, 4.3085, 1.6271, 4.3085],
+									"text": ":",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [4.2189, 4.2078, 5.8242, 4.2078, 5.8242, 4.3385, 4.2189, 4.3385],
+								"text": "Building : AMALI PLAZA",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [4.2189, 4.2078, 4.7558, 4.2078, 4.7558, 4.3385, 4.2189, 4.3385],
+									"text": "Building",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.8153, 4.2374, 4.8361, 4.2374, 4.8361, 4.3085, 4.8153, 4.3085],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.9325, 4.2083, 5.3349, 4.2083, 5.3349, 4.3081, 4.9325, 4.3081],
+									"text": "AMALI",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.3979, 4.2083, 5.8242, 4.2083, 5.8242, 4.3081, 5.3979, 4.3081],
+									"text": "PLAZA",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7554, 4.4557, 3.7206, 4.4557, 3.7206, 4.561, 0.7554, 4.561],
+								"text": "Street/Road : KAKAMEGA-MUMIAS HIGHWAY",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7554, 4.4561, 1.5211, 4.4561, 1.5211, 4.561, 0.7554, 4.561],
+									"text": "Street/Road",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.5808, 4.4874, 1.6017, 4.4874, 1.6017, 4.5585, 1.5808, 4.5585],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.6494, 4.4557, 3.0138, 4.4557, 3.0138, 4.5606, 1.6494, 4.5606],
+									"text": "KAKAMEGA-MUMIAS",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.0696, 4.4557, 3.7206, 4.4557, 3.7206, 4.5606, 3.0696, 4.5606],
+									"text": "HIGHWAY",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [4.2144, 4.4349, 5.549, 4.4349, 5.549, 4.5672, 4.2144, 4.5672],
+								"text": "City/Town : MUMIAS",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [4.2144, 4.4353, 4.8629, 4.4353, 4.8629, 4.5672, 4.2144, 4.5672],
+									"text": "City/Town",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.9233, 4.4665, 4.9442, 4.4665, 4.9442, 4.5376, 4.9233, 4.5376],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.0101, 4.4349, 5.549, 4.4349, 5.549, 4.5397, 5.0101, 4.5397],
+									"text": "MUMIAS",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7561, 4.7061, 2.0492, 4.7061, 2.0492, 4.8385, 0.7561, 4.8385],
+								"text": "County : Kakamega",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7561, 4.7061, 1.226, 4.7061, 1.226, 4.8381, 0.7561, 4.8381],
+									"text": "County",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.2797, 4.7374, 1.3006, 4.7374, 1.3006, 4.8085, 1.2797, 4.8085],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.3994, 4.7083, 2.0492, 4.7083, 2.0492, 4.8385, 1.3994, 4.8385],
+									"text": "Kakamega",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [4.2189, 4.7078, 5.7517, 4.7078, 5.7517, 4.8103, 4.2189, 4.8103],
+								"text": "District : Mumias District",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [4.2189, 4.7078, 4.6835, 4.7078, 4.6835, 4.8103, 4.2189, 4.8103],
+									"text": "District",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.7382, 4.7374, 4.759, 4.7374, 4.759, 4.8085, 4.7382, 4.8085],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.8157, 4.7083, 5.2867, 4.7083, 5.2867, 4.81, 4.8157, 4.81],
+									"text": "Mumias",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.3415, 4.7083, 5.7517, 4.7083, 5.7517, 4.81, 5.3415, 4.81],
+									"text": "District",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7519, 4.9583, 2.3414, 4.9583, 2.3414, 5.0603, 0.7519, 5.0603],
+								"text": "Tax Area : Mumias Town",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7519, 4.9588, 0.9872, 4.9588, 0.9872, 5.0603, 0.7519, 5.0603],
+									"text": "Tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.0307, 4.9588, 1.3326, 4.9588, 1.3326, 5.0603, 1.0307, 5.0603],
+									"text": "Area",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.3881, 4.9874, 1.4089, 4.9874, 1.4089, 5.0585, 1.3881, 5.0585],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.4962, 4.9583, 1.9672, 4.9583, 1.9672, 5.06, 1.4962, 5.06],
+									"text": "Mumias",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.0128, 4.9583, 2.3414, 4.9583, 2.3414, 5.0599, 2.0128, 5.0599],
+									"text": "Town",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [4.2138, 4.9557, 5.5717, 4.9557, 5.5717, 5.061, 4.2138, 5.061],
+								"text": "Station : BUNGOMA*",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [4.2138, 4.9561, 4.67, 4.9561, 4.67, 5.061, 4.2138, 5.061],
+									"text": "Station",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.7304, 4.9874, 4.7512, 4.9874, 4.7512, 5.0585, 4.7304, 5.0585],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.8158, 4.9557, 5.5717, 4.9557, 5.5717, 5.0606, 4.8158, 5.0606],
+									"text": "BUNGOMA*",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7606, 5.2088, 1.7262, 5.2088, 1.7262, 5.311, 0.7606, 5.311],
+								"text": "P. O. Box : 608",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7606, 5.2088, 0.8724, 5.2088, 0.8724, 5.3085, 0.7606, 5.3085],
+									"text": "P.",
+									"confidence": 1
+								}, {
+									"boundingBox": [0.926, 5.2089, 1.0576, 5.2089, 1.0576, 5.311, 0.926, 5.311],
+									"text": "O.",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.1157, 5.2088, 1.3654, 5.2088, 1.3654, 5.3103, 1.1157, 5.3103],
+									"text": "Box",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.4189, 5.2374, 1.4397, 5.2374, 1.4397, 5.3085, 1.4189, 5.3085],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.5053, 5.2104, 1.7262, 5.2104, 1.7262, 5.3106, 1.5053, 5.3106],
+									"text": "608",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [4.2189, 5.2061, 5.5321, 5.2061, 5.5321, 5.311, 4.2189, 5.311],
+								"text": "Postal Code : 50102",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [4.2189, 5.2088, 4.6156, 5.2088, 4.6156, 5.3103, 4.2189, 5.3103],
+									"text": "Postal",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.6699, 5.2061, 5.0071, 5.2061, 5.0071, 5.311, 4.6699, 5.311],
+									"text": "Code",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.0624, 5.2374, 5.0832, 5.2374, 5.0832, 5.3085, 5.0624, 5.3085],
+									"text": ":",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.1572, 5.2104, 5.5321, 5.2104, 5.5321, 5.3106, 5.1572, 5.3106],
+									"text": "50102",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [2.4005, 5.5703, 5.8589, 5.5703, 5.8589, 5.7551, 2.4005, 5.7551],
+								"text": "Tax Obligation(s) Registration Details",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [2.4005, 5.5734, 2.7299, 5.5734, 2.7299, 5.7156, 2.4005, 5.7156],
+									"text": "Tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.7954, 5.5703, 3.9792, 5.5703, 3.9792, 5.7551, 2.7954, 5.7551],
+									"text": "Obligation(s)",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.0548, 5.5721, 5.1618, 5.5721, 5.1618, 5.7551, 4.0548, 5.7551],
+									"text": "Registration",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.2433, 5.5721, 5.8589, 5.5721, 5.8589, 5.7156, 5.2433, 5.7156],
+									"text": "Details",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7954, 5.9283, 1.2288, 5.9283, 1.2288, 6.0332, 0.7954, 6.0332],
+								"text": "Sr. No.",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7954, 5.9283, 0.9664, 5.9283, 0.9664, 6.0332, 0.7954, 6.0332],
+									"text": "Sr.",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.0235, 5.931, 1.2288, 5.931, 1.2288, 6.0325, 1.0235, 6.0325],
+									"text": "No.",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [1.7333, 5.9288, 2.861, 5.9288, 2.861, 6.0607, 1.7333, 6.0607],
+								"text": "Tax Obligation(s)",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [1.7333, 5.931, 1.9686, 5.931, 1.9686, 6.0325, 1.7333, 6.0325],
+									"text": "Tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.0154, 5.9288, 2.861, 5.9288, 2.861, 6.0607, 2.0154, 6.0607],
+									"text": "Obligation(s)",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [3.5111, 5.9297, 4.801, 5.9297, 4.801, 6.0325, 3.5111, 6.0325],
+								"text": "Effective From Date",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [3.5111, 5.9297, 4.0756, 5.9297, 4.0756, 6.0325, 3.5111, 6.0325],
+									"text": "Effective",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.1286, 5.931, 4.4565, 5.931, 4.4565, 6.0325, 4.1286, 6.0325],
+									"text": "From",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.5144, 5.931, 4.801, 5.931, 4.801, 6.0325, 4.5144, 6.0325],
+									"text": "Date",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [5.3206, 5.9297, 6.4639, 5.9297, 6.4639, 6.0325, 5.3206, 6.0325],
+								"text": "Effective Till Date",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [5.3206, 5.9297, 5.885, 5.9297, 5.885, 6.0325, 5.3206, 6.0325],
+									"text": "Effective",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.9294, 5.93, 6.1186, 5.93, 6.1186, 6.0307, 5.9294, 6.0307],
+									"text": "Till",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.1774, 5.931, 6.4639, 5.931, 6.4639, 6.0325, 6.1774, 6.0325],
+									"text": "Date",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [6.9738, 5.9283, 7.3876, 5.9283, 7.3876, 6.0332, 6.9738, 6.0332],
+								"text": "Status",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.9738, 5.9283, 7.3876, 5.9283, 7.3876, 6.0332, 6.9738, 6.0332],
+									"text": "Status",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.9893, 6.2104, 1.0251, 6.2104, 1.0251, 6.3081, 0.9893, 6.3081],
+								"text": "1",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.9893, 6.2104, 1.0251, 6.2104, 1.0251, 6.3081, 0.9893, 6.3081],
+									"text": "1",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [1.6128, 6.1276, 2.9943, 6.1276, 2.9943, 6.2293, 1.6128, 6.2293],
+								"text": "Income Tax - Resident",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [1.6128, 6.1276, 2.05, 6.1276, 2.05, 6.2293, 1.6128, 6.2293],
+									"text": "Income",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.0961, 6.1276, 2.3243, 6.1276, 2.3243, 6.2293, 2.0961, 6.2293],
+									"text": "Tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.3704, 6.1826, 2.4044, 6.1826, 2.4044, 6.1951, 2.3704, 6.1951],
+									"text": "-",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.4614, 6.1276, 2.9943, 6.1276, 2.9943, 6.2293, 2.4614, 6.2293],
+									"text": "Resident",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [2.0179, 6.2892, 2.5826, 6.2892, 2.5826, 6.3908, 2.0179, 6.3908],
+								"text": "Individual",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [2.0179, 6.2892, 2.5826, 6.2892, 2.5826, 6.3908, 2.0179, 6.3908],
+									"text": "Individual",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [3.8193, 6.2057, 4.495, 6.2057, 4.495, 6.3106, 3.8193, 6.3106],
+								"text": "11/04/2010",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [3.8193, 6.2057, 4.495, 6.2057, 4.495, 6.3106, 3.8193, 6.3106],
+									"text": "11/04/2010",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [5.7643, 6.2083, 6.0118, 6.2083, 6.0118, 6.3081, 5.7643, 6.3081],
+								"text": "N.A.",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [5.7643, 6.2083, 6.0118, 6.2083, 6.0118, 6.3081, 5.7643, 6.3081],
+									"text": "N.A.",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [6.9935, 6.2083, 7.3642, 6.2083, 7.3642, 6.31, 6.9935, 6.31],
+								"text": "Active",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [6.9935, 6.2083, 7.3642, 6.2083, 7.3642, 6.31, 6.9935, 6.31],
+									"text": "Active",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.6964, 6.8933, 7.5554, 6.8933, 7.5554, 7.0226, 0.6964, 7.0226],
+								"text": "The above PIN must appear on all your tax invoices and correspondences with Kenya Revenue Authority. Your",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.6964, 6.8933, 0.9287, 6.8933, 0.9287, 6.995, 0.6964, 6.995],
+									"text": "The",
+									"confidence": 1
+								}, {
+									"boundingBox": [0.979, 6.8933, 1.3478, 6.8933, 1.3478, 6.995, 0.979, 6.995],
+									"text": "above",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.4051, 6.8933, 1.6146, 6.8933, 1.6146, 6.9931, 1.4051, 6.9931],
+									"text": "PIN",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.674, 6.9001, 1.9638, 6.9001, 1.9638, 6.995, 1.674, 6.995],
+									"text": "must",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.0115, 6.9183, 2.44, 6.9183, 2.44, 7.0217, 2.0115, 7.0217],
+									"text": "appear",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.4847, 6.9183, 2.6256, 6.9183, 2.6256, 6.9949, 2.4847, 6.9949],
+									"text": "on",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.6793, 6.8933, 2.8044, 6.8933, 2.8044, 6.995, 2.6793, 6.995],
+									"text": "all",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.855, 6.9183, 3.1243, 6.9183, 3.1243, 7.0226, 2.855, 7.0226],
+									"text": "your",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.1661, 6.9001, 3.3486, 6.9001, 3.3486, 6.995, 3.1661, 6.995],
+									"text": "tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.399, 6.8933, 3.8882, 6.8933, 3.8882, 6.995, 3.399, 6.995],
+									"text": "invoices",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.938, 6.8933, 4.1572, 6.8933, 4.1572, 6.995, 3.938, 6.995],
+									"text": "and",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.2105, 6.8933, 5.2688, 6.8933, 5.2688, 7.0217, 4.2105, 7.0217],
+									"text": "correspondences",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.3155, 6.8933, 5.5522, 6.8933, 5.5522, 6.9939, 5.3155, 6.9939],
+									"text": "with",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.6116, 6.8933, 5.9922, 6.8933, 5.9922, 7.0226, 5.6116, 7.0226],
+									"text": "Kenya",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.0478, 6.8933, 6.5874, 6.8933, 6.5874, 6.995, 6.0478, 6.995],
+									"text": "Revenue",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.6346, 6.8933, 7.2096, 6.8933, 7.2096, 7.0226, 6.6346, 7.0226],
+									"text": "Authority.",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.2634, 6.8933, 7.5554, 6.8933, 7.5554, 6.995, 7.2634, 6.995],
+									"text": "Your",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.6994, 7.055, 7.5506, 7.055, 7.5506, 7.1851, 0.6994, 7.1851],
+								"text": "accounting end date is 31st December as per the provisions stated in the Income Tax Act unless a change has",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.6994, 7.055, 1.3617, 7.055, 1.3617, 7.1851, 0.6994, 7.1851],
+									"text": "accounting",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.4155, 7.055, 1.6345, 7.055, 1.6345, 7.1567, 1.4155, 7.1567],
+									"text": "end",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.6877, 7.055, 1.9487, 7.055, 1.9487, 7.1567, 1.6877, 7.1567],
+									"text": "date",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.0039, 7.055, 2.0903, 7.055, 2.0903, 7.1567, 2.0039, 7.1567],
+									"text": "is",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.1404, 7.0571, 2.3964, 7.0571, 2.3964, 7.1572, 2.1404, 7.1572],
+									"text": "31st",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.4509, 7.055, 3.0828, 7.055, 3.0828, 7.1567, 2.4509, 7.1567],
+									"text": "December",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.1283, 7.08, 3.2654, 7.08, 3.2654, 7.1567, 3.1283, 7.1567],
+									"text": "as",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.3188, 7.08, 3.5121, 7.08, 3.5121, 7.1833, 3.3188, 7.1833],
+									"text": "per",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.5545, 7.055, 3.7409, 7.055, 3.7409, 7.1567, 3.5545, 7.1567],
+									"text": "the",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.7949, 7.055, 4.4104, 7.055, 4.4104, 7.1833, 3.7949, 7.1833],
+									"text": "provisions",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.4603, 7.055, 4.8282, 7.055, 4.8282, 7.1567, 4.4603, 7.1567],
+									"text": "stated",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.8858, 7.055, 4.9759, 7.055, 4.9759, 7.1547, 4.8858, 7.1547],
+									"text": "in",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.0272, 7.055, 5.2136, 7.055, 5.2136, 7.1567, 5.0272, 7.1567],
+									"text": "the",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.2721, 7.055, 5.7113, 7.055, 5.7113, 7.1567, 5.2721, 7.1567],
+									"text": "Income",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.7592, 7.055, 5.9881, 7.055, 5.9881, 7.1567, 5.7592, 7.1567],
+									"text": "Tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.0318, 7.055, 6.2284, 7.055, 6.2284, 7.1567, 6.0318, 7.1567],
+									"text": "Act",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.2812, 7.055, 6.6701, 7.055, 6.6701, 7.1567, 6.2812, 7.1567],
+									"text": "unless",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.7204, 7.08, 6.789, 7.08, 6.789, 7.1567, 6.7204, 7.1567],
+									"text": "a",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.8386, 7.055, 7.285, 7.055, 7.285, 7.1851, 6.8386, 7.1851],
+									"text": "change",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.3399, 7.055, 7.5506, 7.055, 7.5506, 7.1567, 7.3399, 7.1567],
+									"text": "has",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7025, 7.2139, 7.5465, 7.2139, 7.5465, 7.3467, 0.7025, 7.3467],
+								"text": "been approved by the Commissioner-Domestic Taxes Department.The status of Tax Obligation(s) with",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7025, 7.2165, 1.0081, 7.2165, 1.0081, 7.3182, 0.7025, 7.3182],
+									"text": "been",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.0814, 7.2165, 1.6797, 7.2165, 1.6797, 7.3449, 1.0814, 7.3449],
+									"text": "approved",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.7549, 7.2165, 1.8966, 7.2165, 1.8966, 7.3458, 1.7549, 7.3458],
+									"text": "by",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.9593, 7.2165, 2.1541, 7.2165, 2.1541, 7.3182, 1.9593, 7.3182],
+									"text": "the",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.225, 7.2139, 3.8213, 7.2139, 3.8213, 7.3188, 2.225, 7.3188],
+									"text": "Commissioner-Domestic",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.8844, 7.2165, 4.274, 7.2165, 4.274, 7.3182, 3.8844, 7.3182],
+									"text": "Taxes",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.3495, 7.2165, 5.3959, 7.2165, 5.3959, 7.3449, 4.3495, 7.3449],
+									"text": "Department.The",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.4652, 7.2233, 5.8492, 7.2233, 5.8492, 7.3182, 5.4652, 7.3182],
+									"text": "status",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.9184, 7.2151, 6.0317, 7.2151, 6.0317, 7.3181, 5.9184, 7.3181],
+									"text": "of",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.0952, 7.2165, 6.3325, 7.2165, 6.3325, 7.3182, 6.0952, 7.3182],
+									"text": "Tax",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.3986, 7.2139, 7.2261, 7.2139, 7.2261, 7.3467, 6.3986, 7.3467],
+									"text": "Obligation(s)",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.2968, 7.2165, 7.5465, 7.2165, 7.5465, 7.3171, 7.2968, 7.3171],
+									"text": "with",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.7026, 7.3768, 7.554, 7.3768, 7.554, 7.5083, 0.7026, 7.5083],
+								"text": "'Dormant’ status will automatically change to 'Active' on date mentioned in \"Effective Till Date\" or any",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.7026, 7.3782, 1.3143, 7.3782, 1.3143, 7.4799, 0.7026, 7.4799],
+									"text": "'Dormant’",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.3883, 7.385, 1.7738, 7.385, 1.7738, 7.4799, 1.3883, 7.4799],
+									"text": "status",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.8413, 7.3782, 2.0375, 7.3782, 2.0375, 7.4779, 1.8413, 7.4779],
+									"text": "will",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.1123, 7.3782, 2.9747, 7.3782, 2.9747, 7.5075, 2.1123, 7.5075],
+									"text": "automatically",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.0424, 7.3782, 3.5112, 7.3782, 3.5112, 7.5083, 3.0424, 7.5083],
+									"text": "change",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.5793, 7.385, 3.6932, 7.385, 3.6932, 7.4797, 3.5793, 7.4797],
+									"text": "to",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.7668, 7.3782, 4.2158, 7.3782, 4.2158, 7.4799, 3.7668, 7.4799],
+									"text": "'Active'",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.2894, 7.4032, 4.4348, 7.4032, 4.4348, 7.4797, 4.2894, 7.4797],
+									"text": "on",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.5092, 7.3782, 4.7837, 7.3782, 4.7837, 7.4799, 4.5092, 7.4799],
+									"text": "date",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.8589, 7.3782, 5.5294, 7.3782, 5.5294, 7.4799, 4.8589, 7.4799],
+									"text": "mentioned",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.6072, 7.3782, 5.7018, 7.3782, 5.7018, 7.4779, 5.6072, 7.4779],
+									"text": "in",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.7811, 7.3768, 6.3917, 7.3768, 6.3917, 7.4799, 5.7811, 7.4799],
+									"text": "\"Effective",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.4597, 7.3782, 6.6404, 7.3782, 6.6404, 7.4779, 6.4597, 7.4779],
+									"text": "Till",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.7216, 7.3782, 7.0627, 7.3782, 7.0627, 7.4799, 6.7216, 7.4799],
+									"text": "Date\"",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.1379, 7.4032, 7.2612, 7.4032, 7.2612, 7.4797, 7.1379, 7.4797],
+									"text": "or",
+									"confidence": 1
+								}, {
+									"boundingBox": [7.3269, 7.4032, 7.554, 7.4032, 7.554, 7.5075, 7.3269, 7.5075],
+									"text": "any",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.6964, 7.5383, 6.8544, 7.5383, 6.8544, 7.6699, 0.6964, 7.6699],
+								"text": "transaction done during the period. This certificate shall remain in force till further updated.",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.6964, 7.5397, 1.4135, 7.5397, 1.4135, 7.6414, 0.6964, 7.6414],
+									"text": "transaction",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.4879, 7.5397, 1.801, 7.5397, 1.801, 7.6414, 1.4879, 7.6414],
+									"text": "done",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.872, 7.5397, 2.2696, 7.5397, 2.2696, 7.6699, 1.872, 7.6699],
+									"text": "during",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.34, 7.5397, 2.5353, 7.5397, 2.5353, 7.6414, 2.34, 7.6414],
+									"text": "the",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.6095, 7.5397, 3.0432, 7.5397, 3.0432, 7.6681, 2.6095, 7.6681],
+									"text": "period.",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.1178, 7.5397, 3.3878, 7.5397, 3.3878, 7.6414, 3.1178, 7.6414],
+									"text": "This",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.4589, 7.5383, 4.0909, 7.5383, 4.0909, 7.6414, 3.4589, 7.6414],
+									"text": "certificate",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.1614, 7.5397, 4.4527, 7.5397, 4.4527, 7.6414, 4.1614, 7.6414],
+									"text": "shall",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.5333, 7.5397, 4.9624, 7.5397, 4.9624, 7.6414, 4.5333, 7.6414],
+									"text": "remain",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.0413, 7.5397, 5.1359, 7.5397, 5.1359, 7.6394, 5.0413, 7.6394],
+									"text": "in",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.2074, 7.5383, 5.5282, 7.5383, 5.5282, 7.6414, 5.2074, 7.6414],
+									"text": "force",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.5962, 7.5397, 5.7307, 7.5397, 5.7307, 7.6403, 5.5962, 7.6403],
+									"text": "till",
+									"confidence": 1
+								}, {
+									"boundingBox": [5.8025, 7.5383, 6.2311, 7.5383, 6.2311, 7.6414, 5.8025, 7.6414],
+									"text": "further",
+									"confidence": 1
+								}, {
+									"boundingBox": [6.3012, 7.5397, 6.8544, 7.5397, 6.8544, 7.6681, 6.3012, 7.6681],
+									"text": "updated.",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.9766, 10.6834, 1.011, 10.6834, 1.011, 10.7153, 0.9766, 10.7153],
+								"text": "*",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [0.9766, 10.6834, 1.011, 10.6834, 1.011, 10.7153, 0.9766, 10.7153],
+									"text": "*",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [1.0479, 10.6813, 5.0077, 10.6813, 5.0077, 10.7875, 1.0479, 10.7875],
+								"text": "The station is subject to change based on the verification done by Commissoner.",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+									"boundingBox": [1.0479, 10.6834, 1.2333, 10.6834, 1.2333, 10.7648, 1.0479, 10.7648],
+									"text": "The",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.2722, 10.6834, 1.5888, 10.6834, 1.5888, 10.7648, 1.2722, 10.7648],
+									"text": "station",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.6343, 10.6834, 1.7031, 10.6834, 1.7031, 10.7648, 1.6343, 10.7648],
+									"text": "is",
+									"confidence": 1
+								}, {
+									"boundingBox": [1.7416, 10.6834, 2.0877, 10.6834, 2.0877, 10.7864, 1.7416, 10.7864],
+									"text": "subject",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.1224, 10.6889, 2.2097, 10.6889, 2.2097, 10.7646, 2.1224, 10.7646],
+									"text": "to",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.2489, 10.6834, 2.6044, 10.6834, 2.6044, 10.7875, 2.2489, 10.7875],
+									"text": "change",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.6462, 10.6834, 2.9361, 10.6834, 2.9361, 10.7648, 2.6462, 10.7648],
+									"text": "based",
+									"confidence": 1
+								}, {
+									"boundingBox": [2.9772, 10.7034, 3.0897, 10.7034, 3.0897, 10.7646, 2.9772, 10.7646],
+									"text": "on",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.1293, 10.6834, 3.2778, 10.6834, 3.2778, 10.7648, 3.1293, 10.7648],
+									"text": "the",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.314, 10.6823, 3.8369, 10.6823, 3.8369, 10.7648, 3.314, 10.7648],
+									"text": "verification",
+									"confidence": 1
+								}, {
+									"boundingBox": [3.8789, 10.6834, 4.1177, 10.6834, 4.1177, 10.7648, 3.8789, 10.7648],
+									"text": "done",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.1594, 10.6834, 4.2691, 10.6834, 4.2691, 10.7869, 4.1594, 10.7869],
+									"text": "by",
+									"confidence": 1
+								}, {
+									"boundingBox": [4.3061, 10.6813, 5.0077, 10.6813, 5.0077, 10.7652, 4.3061, 10.7652],
+									"text": "Commissoner.",
+									"confidence": 1
+								}]
+							}, {
+								"boundingBox": [0.8786, 10.8302, 4.9487, 10.8302, 4.9487, 10.9354, 0.8786, 10.9354],
+								"text": "Disclaimer : This is a system generated certificate and does not require signature.",
+								"appearance": {
+									"style": {
+										"name": "other",
+										"confidence": 1
+									}
+								},
+								"words": [{
+											"boundingBox": [0.8786, 10.8308, 1.4304, 10.8308, 1.4304, 10.9128, 0.8786, 10.9128],
+											"text": "Disclaimer",
+											"confidence": 1
+										}, {
+											"boundingBox": [1.4732, 10.8545, 1.4899, 10.8545, 1.4899, 10.9114, 1.4732, 10.9114],
+											"text": ":",
+											"confidence": 1
+										}, {
+											"boundingBox": [1.5571, 10.8313, 1.7614, 10.8313, 1.7614, 10.9127, 1.5571, 10.9127],
+											"text": "This",
+											"confidence": 1
+										}, {
+											"boundingBox": [1.8038, 10.8313, 1.8726, 10.8313, 1.8726, 10.9127, 1.8038, 10.9127],
+											"text": "is",
+											"confidence": 1
+										}, {
+											"boundingBox": [1.9114, 10.8513, 1.9663, 10.8513, 1.9663, 10.9127, 1.9114, 10.9127],
+											"text": "a",
+											"confidence": 1
+										}, {
+											"boundingBox": [2.0037, 10.8368, 2.3449, 10.8368, 2.3449, 10.9348, 2.0037, 10.9348],
+											"text": "system",
+											"confidence": 1
+										}, {
+											"boundingBox": [2.3873, 10.8313, 2.8769, 10.8313, 2.8769, 10.9354, 2.3873, 10.9354],
+											"text": "generated",
+											"confidence": 1
+										}, {
+											"boundingBox": [2.9186, 10.8302, 3.3851, 10.8302, 3.3851, 10.9127, 2.9186, 10.9127],
+											"text": "certificate",
+											"confidence": 1
+										}, {
+											"boundingBox": [3.4244, 10.8313, 3.5994, 10.8313, 3.5994, 10.9127, 3.4244, 10.9127],
+											"text": "and",
+											"confidence": 1
+										}, {
+											"boundingBox": [3.6406, 10.8313, 3.8736, 10.8313, 3.8736, 10.9127, 3.6406, 10.9127],
+											"text": "does",
+											"confidence": 1
+										}, {
+											"boundingBox": [3.9157, 10.8368, 4.0606, 10.8368, 4.0606, 10.9126, 3.9157, 10.9126],
+											"text": "not",
+											"confidence": 1
+										}, {
+											"boundingBox": [4.1023, 10.8313, 4.4351, 10.8313, 4.4351, 10.934, 4.1023, 10.934],
+											"text": "require",
+											"confidence": 1
+										}, * Connection #0 to host mtekcv.cognitiveservices.azure.com left intact
+{"boundingBox":[4.474,10.8313,4.9487,10.8313,4.9487,10.9354,4.474,10.9354],"text":"signature.","confidence":1}]}]}]}}
