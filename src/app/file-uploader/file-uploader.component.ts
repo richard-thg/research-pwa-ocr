@@ -31,7 +31,7 @@ export class FileUploaderComponent {
   constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
-    const x = {
+    /*     const x = {
       status: 'succeeded',
       createdDateTime: '2023-02-01T12:20:46Z',
       lastUpdatedDateTime: '2023-02-01T12:20:47Z',
@@ -1745,7 +1745,7 @@ export class FileUploaderComponent {
         ],
       },
     };
-    this.ocrResultReadyEvent.emit(JSON.stringify(x));
+    this.ocrResultReadyEvent.emit(JSON.stringify(x)); */
   }
   onFileSelected(evt: any) {
     const file: File = evt.target.files[0];
