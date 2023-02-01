@@ -5,8 +5,8 @@ import {
   HttpHeaders,
   HttpResponse,
 } from '@angular/common/http';
-import { Component } from '@angular/core';
-import { map, Observable, of, switchMap } from 'rxjs';
+import { Component, EventEmitter, Output } from '@angular/core';
+import { Observable } from 'rxjs';
 import { environment } from 'src/environments/environment.development';
 const httpOptions = {
   headers: new HttpHeaders({
@@ -25,6 +25,8 @@ export class FileUploaderComponent {
   fileDetails: any;
   isLoading: boolean = false;
   fileBlobUrl: string = '';
+  @Output()
+  ocrResultReadyEvent: EventEmitter<string> = new EventEmitter<string>();
 
   constructor(private http: HttpClient) {}
   onFileSelected(evt: any) {
@@ -90,7 +92,7 @@ export class FileUploaderComponent {
         if (body.status !== 'succeeded') {
           this.analyzeOcrResponse(analyzeUrl);
         } else {
-          console.log(res.body);
+          this.ocrResultReadyEvent.emit(JSON.stringify(body));
           this.isLoading = false;
         }
       }
@@ -115,29 +117,6 @@ export class FileUploaderComponent {
       responseType: 'json',
     });
     return this.http.request(req);
-
-    /* .pipe((event) => {
-        if (event instanceof HttpResponse) {
-          let res = event.status;
-          if (res == 201) {
-            this.allDataLoaded = true;
-            this.emitFileUploadedEvent.emit(url);
-            this.appService.showToastMessage(
-              AppEnums.ToastTypeInfo,
-              '',
-              `File uploaded successfully!`
-            );
-          } else {
-            this.allDataLoaded = true;
-
-            this.appService.showToastMessage(
-              AppEnums.ToastTypeWarning,
-              '',
-              `Operation return status ${event.status}`
-            );
-          }
-        }
-      }); */
   }
 
   generateFileName(length: number, fileExtension: string) {

@@ -1,16 +1,11 @@
 <div class="card">
     <div class="card-body">
-
-
         <input type="file" class="file-input" (change)="onFileSelected($event)" #fileUpload>
         <div class="file-upload">
-
             {{fileDetails?.name || "No file uploaded yet."}}
-
             <button class="btn btn-light" (click)="fileUpload.click()">
                 <i class="bi bi-cloud-arrow-up d-inline ml-2"></i>
-
-                KRA PIN Document
+                Upload Document
             </button>
         </div>
         <div *ngIf="fileDetails">

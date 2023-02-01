@@ -1,4 +1,36 @@
 <div class="container">
   <h1>OCR Test</h1>
-  <app-file-uploader></app-file-uploader>
+  <app-file-uploader (ocrResultReadyEvent)="processOcrResult($event)"></app-file-uploader>
+
+  <div [ngSwitch]="documentType">
+    <div *ngSwitchCase="documentTypeLogBook">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Logbook Details</h5>
+        </div>
+      </div>
+    </div>
+
+    <div *ngSwitchCase="documentTypeKraPin">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">KRA PIN Details</h5>
+        </div>
+      </div>
+    </div>
+    <div *ngSwitchCase="documentTypeNA">
+      <div class="card">
+        <div class="card-body">
+          <div class=" text-center">
+
+            <i class="bi bi-exclamation-octagon-fill " style="font-size: 5rem; color: red;"></i>
+          </div>
+          <h3 class="text-center text-danger">Document could not be read</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
 </div>
