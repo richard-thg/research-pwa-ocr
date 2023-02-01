@@ -1,1 +1,10 @@
 https://spiffy-druid-cfbced.netlify.app/
+
+curl -v -X POST "https://westcentralus.api.cognitive.microsoft.com/vision/v3.2/read/analyze" \
+ -H "Content-Type: application/json" \
+-H "Ocp-Apim-Subscription-Key: <subscription key>" \
+ --data-ascii "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Atomist_quote_from_Democritus.png/338px-Atomist_quote_from_Democritus.png\"}"
+
+
+Image - https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN-1.png
+PDF - https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN.pdf

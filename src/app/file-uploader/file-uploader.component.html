@@ -1,0 +1,35 @@
+<div class="card">
+    <div class="card-body">
+        <input type="file" class="file-input" (change)="onFileSelected($event)" #fileUpload>
+        <div class="file-upload">
+
+            {{fileName || "No file uploaded yet."}}
+
+            <button class="btn btn-light" (click)="fileUpload.click()">
+                <i class="bi bi-cloud-arrow-up d-inline ml-2"></i>
+
+                KRA PIN Document
+            </button>
+        </div>
+        <!-- <div *ngIf="fileDetails"> -->
+        <div>
+            <span class="badge bg-light text-dark d-inline mr-2">Name: {{fileDetails.name}}</span>
+            <span class="badge bg-light text-dark d-inline mr-2">Size: {{fileDetails.size | fileSize}}</span>
+            <span class="badge bg-light text-dark  d-inline mr-2">Type: {{fileDetails.type}}</span>
+            <span class="badge bg-light text-dark  d-inline mr-2">Last Modified: {{fileDetails.lastModified |
+                date:"medium"}}</span>
+
+            <div class="d-block mt-3">
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25"
+                        aria-valuemin="0" aria-valuemax="100">25%</div>
+                </div>
+                <button class="btn btn-light" (click)="cancelUpload()">
+                    <i class="bi bi-x-circle d-inline mr-2"></i>Cancel upload
+                </button>
+            </div>
+
+        </div>
+
+    </div>
+</div>
