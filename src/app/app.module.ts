@@ -8,6 +8,7 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { FileUploaderComponent } from './file-uploader/file-uploader.component';
 import { FileSizePipe } from './file-size.pipe';
 import { ProgressSpinnerComponent } from './progress-spinner/progress-spinner.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { ProgressSpinnerComponent } from './progress-spinner/progress-spinner.co
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule,
+    HttpClientModule,
     ServiceWorkerModule.register('ngsw-worker.js', {
       enabled: !isDevMode(),
       // Register the ServiceWorker as soon as the application is stable

@@ -14,7 +14,8 @@ curl -v -X POST "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/ana
  -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" \
  --data-ascii "{\"url\":\"https://mtekcdnstoragev2.blob.core.windows.net/admin/mtekocr/OMOKAKRAPIN.pdf\"}"
 
-curl -v -X GET "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyzeResults/5664c152-10e4-4c89-a8db-5cc5c82b3c84" -H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" --data-ascii "{body}"
+curl -v -X GET "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyzeResults/31692d1c-d2e6-4416-a839-1d3c28f83e59" \
+-H "Ocp-Apim-Subscription-Key: 8a15852b1f564dfa9f290afc834d40a2" --data-ascii "{body}"
 
 
 curl -v -X POST "https://mtekcv.cognitiveservices.azure.com/vision/v3.2/read/analyze" \
