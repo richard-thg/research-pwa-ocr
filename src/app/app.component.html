@@ -7,6 +7,20 @@
       <div class="card">
         <div class="card-body">
           <h5 class="card-title">Logbook Details</h5>
+          <table class="table table-sm">
+            <thead>
+              <tr>
+                <th scope="col">Key</th>
+                <th scope="col">Value</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let item of logbookDetails">
+                <th scope="row">{{item.key}}</th>
+                <td>{{item.value}}</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>
